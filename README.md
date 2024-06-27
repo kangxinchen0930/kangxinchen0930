@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @kangxinchen0930
+- 👀 I’m interested in Computational Psychiatry, climbing psychology, sportspsychology
+- 🌱 I have experience in python, MATLAB, Latex
+- 🌱 I’m currently learning JavaScript, SQL, C++, PHP
+- 💞️ I’m looking to collaborate on climbing psychology research
+- 📫 How to reach me: kangxinnnn@hotmail.com
+- 😄 Pronouns: she/her/they
