@@ -1,3 +1,3 @@
-@kangxinchen0930
-filmbychen@gmail.com
-Developing WildPals
+- @kangxinchen0930
+- filmbychen@gmail.com
+- Developing WildPals
