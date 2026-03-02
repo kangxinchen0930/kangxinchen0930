@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @kangxinchen0930
-- 👀 I’m interested in neuroscience and psychology
-- 🌱 I have experience in python, SQL, MATLAB, Latex
-- 💞️ I’m looking to collaborate on climbing psychology research
-- 📫 How to reach me: kangxinnnn@hotmail.com
-- 😄 Pronouns: she/her/they
+@kangxinchen0930
+filmbychen@gmail.com
+Developing WildPals
